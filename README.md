@@ -1,2 +1,2 @@
 # CV
-personal web
+.[personal web].(
