@@ -1,2 +1,2 @@
 # CV
-.[personal web].(
+.[personal web].(https://div-dm17.github.io/CV/)
