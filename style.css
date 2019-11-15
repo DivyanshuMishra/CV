@@ -4,7 +4,8 @@ body{
 .menu{
       background: linear-gradient(35DEG, #CCFFFF, #FFCCCC);
   }
-
+.profile{
+  border-radius:50%;
 }
 hr{
   border-style: none;
