@@ -1,6 +1,11 @@
 body{
   background-color: #EAF6F6;
 }
+#menu{
+      background: linear-gradient(35DEG, #CCFFFF, #FFCCCC);
+  }
+
+}
 hr{
   border-style: none;
   border-top-style: dotted;
